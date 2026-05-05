@@ -15,7 +15,7 @@ A relational database simulating a Pakistani financial institution with 9 normal
 
 ## 🗂️ Schema Overview
 
-![ER Diagram](ERdiagram.png)
+![ER Diagram](ER_diagram.png)
 
 | Table | Description |
 |---|---|
