@@ -1,0 +1,51 @@
+branch_id,branch_name,city,region,established,manager_name,phone,is_active
+1,"Clifton Branch",Islamabad,North,2010,"Raheel Malik",0312-2452545,1
+2,"DHA Branch",Islamabad,North,2014,"Raheel Akhtar",0301-4635493,1
+3,"Gulshan Branch",Faisalabad,Central,2009,"Nimra Qureshi",0301-4003137,1
+4,"Saddar Branch",Lahore,Central,2000,"Waseem Mirza",0321-1127838,1
+5,"Korangi Branch",Lahore,Central,2015,"Junaid Saleem",0345-8762825,1
+6,"Malir Branch",Lahore,Central,2002,"Adnan Malik",0333-3980060,1
+7,"Liaquatabad Branch",Peshawar,North,2003,"Bilal Khan",0301-8030041,1
+8,"Gulberg Branch",Islamabad,North,2018,"Omar Iqbal",0333-6531409,1
+9,"Liberty Branch",Islamabad,North,2004,"Kashif Qureshi",0345-7779130,1
+10,"Model Town Branch",Karachi,South,2009,"Fatima Sheikh",0301-3523964,1
+11,"Johar Town Branch",Islamabad,North,2001,"Bilal Sheikh",0312-7876554,1
+12,"Defence Branch",Karachi,South,2015,"Hira Hussain",0300-7068362,1
+13,"Bahria Town Branch",Multan,Central,2014,"Sara Dar",0321-4629283,1
+14,"Blue Area Branch",Lahore,Central,2010,"Saima Baig",0312-1630697,1
+15,"F-7 Branch",Peshawar,North,2010,"Rabia Iqbal",0312-6211949,1
+16,"G-9 Branch",Peshawar,North,2021,"Sana Javed",0312-7434977,1
+17,"I-8 Branch",Faisalabad,Central,2000,"Saima Raza",NULL,1
+18,"Hayatabad Branch",Peshawar,North,2008,"Amna Sheikh",0321-8229670,1
+19,"University Road Branch",Islamabad,North,2019,"Faisal Siddiqui",0345-8382872,1
+20,"Cantt Branch",Lahore,Central,2004,"Sara Baloch",0321-4242649,1
+21,"Satellite Town Branch",Peshawar,North,2003,"Nimra Farooq",0311-4879506,1
+22,"New Area Branch",Faisalabad,Central,2009,"Sara Butt",0312-1021683,1
+23,"Old City Branch",Peshawar,North,2021,"Zubair Mehmood",0321-7993367,1
+24,"Phase 1 Branch",Quetta,West,2018,"Sana Khan",0311-6159012,0
+25,"Phase 2 Branch",Multan,Central,1999,"Gulnaz Baig",0301-5952173,1
+26,"Phase 3 Branch",Multan,Central,2010,"Zara Raza",0312-3192171,1
+27,"Phase 4 Branch",Faisalabad,Central,2020,"Saima Aziz",0312-7037099,1
+28,"Phase 5 Branch",Lahore,Central,2012,"Zara Akhtar",0301-8991883,1
+29,"Phase 6 Branch",Multan,Central,2015,"Junaid Saleem",NULL,1
+30,"Phase 7 Branch",Islamabad,North,2000,"Rubab Khan",0345-5619651,1
+31,"Phase 8 Branch",Quetta,West,2008,"Maira Malik",0300-7664964,0
+32,"Township Branch",Lahore,Central,2014,"Aamir Iqbal",0333-1964800,1
+33,"Cavalry Branch",Islamabad,North,2005,"Bilal Akhtar",0321-7126514,0
+34,"Garden Town Branch",Karachi,South,2022,"Adnan Baig",0311-9975013,1
+35,"Allama Iqbal Branch",Peshawar,North,2001,"Omar Sheikh",0300-9602233,1
+36,"Samanabad Branch",Karachi,South,2009,"Raheel Gul",0345-3702956,1
+37,"Faisal Town Branch",Multan,Central,2008,"Sana Iqbal",0300-3458965,1
+38,"Wapda Town Branch",Quetta,West,2021,"Kamran Siddiqui",0311-2626825,1
+39,"Raiwind Road Branch",Karachi,South,2016,"Maryam Gul",0300-3708399,1
+40,"GT Road Branch",Faisalabad,Central,2003,"Mehwish Raza",0300-7652611,0
+41,"Mall Road Branch",Karachi,South,2002,"Faisal Aziz",0300-9261828,1
+42,"Circular Road Branch",Multan,Central,1999,"Zara Gul",0311-6612555,1
+43,"Station Road Branch",Faisalabad,Central,1999,"Maira Gul",0312-1311073,1
+44,"Airport Road Branch",Lahore,Central,2021,"Saima Saleem",0311-4822342,1
+45,"Main Boulevard Branch",Islamabad,North,1999,"Kamran Afridi",0311-2576328,1
+46,"Commercial Area Branch",Quetta,West,1998,"Omar Malik",0300-5271460,1
+47,"Industrial Zone Branch",Faisalabad,Central,2011,"Muhammad Afridi",NULL,1
+48,"Tariq Road Branch",Islamabad,North,2000,"Sajid Hussain",0312-9022391,1
+49,"Shahra-e-Faisal Branch",Multan,Central,2009,"Kamran Dar",0301-2685387,1
+50,"Burns Road Branch",Karachi,South,2003,"Waseem Hussain",0301-5303837,1
